@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachWeller&show_icons=true&theme=radical&hide=stars)
+[![MasterHead](![banner](https://github.com/ZachWeller/ZachWeller/assets/112107584/85cf6eaf-411f-4322-897b-f62813abadc0)
+)]([your GitHub link](https://github.com/ZachWeller)https://github.com/ZachWeller)
