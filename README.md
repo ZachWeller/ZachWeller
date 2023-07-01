@@ -91,10 +91,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZachWeller&show_icons=true&count_private=true&hide_border=true&theme=transparent&text_color=4F67FC&title_color=7A4DFB" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
+<br/ 
   
 
 <br/>  
@@ -104,7 +101,7 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ZachWeller&&style=flat-square" align="center" />
 </div>  
   
 
