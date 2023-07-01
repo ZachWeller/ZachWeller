@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachWeller&hide_border=true&layout=compact&hide=GDscript&theme=transparent" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachWeller&hide_border=true&layout=compact&hide=GDscript&theme=transparent&text_color=4F67FC&title_color=7A4DFB" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZachWeller&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZachWeller&show_icons=true&count_private=true&hide_border=true&theme=transparent&text_color=4F67FC&title_color=7A4DFB" align="center" /></div>  
 
 <br/>  
 
