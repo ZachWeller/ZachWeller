@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://zachwellerbucket.s3.amazonaws.com/GitHubBanner+(1).gif)](https://github.com/ZachWeller)
+[![MasterHead](https://zachwellerbucket.s3.amazonaws.com/GitHubBanner.gif)](https://github.com/ZachWeller)
 <div align="center">
   
 
